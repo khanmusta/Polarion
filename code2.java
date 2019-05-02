@@ -95,7 +95,7 @@ public class ArrayExamples
 		}
 	}
  //////
- //  @wi.implements drivepilot/DP-440
+ /* @wi.implements drivepilot/DP-440 */
 
 
 	/*
