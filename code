@@ -1,15 +1,10 @@
 <code>
-newest commit with the message
-//////
- //  @wi.implements drivepilot/DP-440
- commit
-/new 8.0
-3rd commit
-4th Commit
-nth Commit 6.0
 
-  /** Change 7
-        * @wi.implements Requirement/R1-1311
-        *//
+ /**
+* @wi.implements drivepilot/DP-440 Returns author of this book
+*/
+public String getAuthor() {
+return this.author;
+}  
 
 </code>
