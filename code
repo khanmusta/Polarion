@@ -1,7 +1,7 @@
 <code>
 
  /**
-* @wi.implements drivepilot/DP-440 Returns author of this book
+* @wi drivepilot/DP-440 Returns author of this book
 */
 public String getAuthor() {
 return this.author
