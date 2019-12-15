@@ -36,7 +36,7 @@ public class ArrayExamples
 			}
 		}
 
-		return indexOfMin;
+		return list;
 	}
 
 
