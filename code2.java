@@ -2,7 +2,7 @@
 
 public class ArrayExamples 
 	/**
-* @wi drivepilot/DP-440 Returns author of this book
+* @wi drivepilot/DP-345 Returns author of this book
 */
 {	public static void main(String[] args)
 	{	int[] list = {1, 2, 3, 4, 1, 2, 3};
